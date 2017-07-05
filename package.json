@@ -1,0 +1,25 @@
+{
+  "name": "css-loader-module-json",
+  "version": "1.0.0",
+  "description": "Webpack css-loader css-modules json extractor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/llyys/css-loader-module-json.git"
+  },
+  "keywords": [
+    "webpack",
+    "css-loader",
+    "css-modules",
+    "isomorphic"
+  ],
+  "author": "llyys",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/llyys/css-loader-module-json/issues"
+  },
+  "homepage": "https://github.com/llyys/css-loader-module-json#readme"
+}
